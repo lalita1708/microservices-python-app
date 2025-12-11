@@ -1,0 +1,11 @@
+# Python
+*.pyc
+__pycache__/
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*/secret.yaml
